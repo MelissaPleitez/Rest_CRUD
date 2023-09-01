@@ -1,0 +1,20 @@
+{
+  "movies&books": [
+    {
+      "autor": "JK.Roll",
+      "title": "Harry potter",
+      "score": "8",
+      "description": "Great Movie!!",
+      "img": "C:\\fakepath\\GS1_El_Salvador_61px_Tall_RGB_2014-12-17.jpg",
+      "id": 1
+    },
+    {
+      "autor": "Nolan",
+      "title": "Batman",
+      "score": "9",
+      "description": "One of the best movies of all times!",
+      "img": "C:\\fakepath\\58f37731a4fa116215a92411.png",
+      "id": 2
+    }
+  ]
+}
